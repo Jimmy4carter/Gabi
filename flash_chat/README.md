@@ -1,4 +1,4 @@
-# G3health ⚡️
+# G3health
 
 
 
