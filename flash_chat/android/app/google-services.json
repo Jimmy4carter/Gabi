@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "172956181268",
+    "firebase_url": "https://flash-chat-30cad.firebaseio.com",
+    "project_id": "flash-chat-30cad",
+    "storage_bucket": "flash-chat-30cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172956181268:android:e33563b5b5d051ee3c5801",
+        "android_client_info": {
+          "package_name": "co.osteen.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172956181268-d3j7u1macvlevophvd7v5m2e4sirt6cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoS7_qXzmnAFgk87oebp4p2VdFtwSDY_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172956181268-d3j7u1macvlevophvd7v5m2e4sirt6cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
